@@ -1,0 +1,32 @@
+body {
+    margin: 0 auto;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 15px 15px;
+}
+
+img {
+    width: 350px;
+    box-shadow: 3px 2px 7px 0px rgba(181,163,163,0.75);
+-webkit-box-shadow: 3px 2px 7px 0px rgba(181,163,163,0.75);
+-moz-box-shadow: 3px 2px 7px 0px rgba(181,163,163,0.75);
+}
+
+a {
+    text-transform: uppercase;
+}
+
+div {
+    background-color: rgb(235, 235, 235);
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    padding:20px 20px;
+}
+
+.aboutMe {
+    text-align: justify;
+}
+
+footer {
+    text-align: center;
+}
